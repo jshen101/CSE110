@@ -34,6 +34,10 @@ I agree with the professor that "SWE is sponsored by Uncertainty" and
 
 Thus, I always keep actively learning new things and practicing what I have learned, hoping that it will help me deal with the unavoidable uncertainty I would meet in the future. 
 
+Besides all the formal stuff, here is a meme that I love as a programmer: 
+
+![](gitmeme.jpeg)
+
 
 ### As a person:
 
@@ -59,6 +63,3 @@ Here is the top 5 artists I recently listening to (with 1 being most often):
 - [x] Ordered Lists
 - [x] Unordered Lists
 - [x] Task lists
-
-![Screenshot of command line git transactions](screenshots/command.png)
-![Screenshot of staged commit in VS Code](screenshots/staged.png)
